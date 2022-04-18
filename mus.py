@@ -1,2 +1,2 @@
-from Qadir import knock_Out
-knock_Out()
+from mouse import bnsbuy
+bnsbuy()
